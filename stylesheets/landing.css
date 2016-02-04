@@ -26,7 +26,7 @@ HEADER
 }
 
 .portrait_name{
-    width:320px;
+    width:340px;
     margin:0 auto;
     padding:20px;
     border-radius:20px;
@@ -51,6 +51,7 @@ article{
     padding:10px;
     border-radius:10px;
     margin-bottom:10px;
+    
 }
 
 /**********************************
@@ -85,18 +86,21 @@ Color 1:
 ***********************************/
 
 article{
-    background:#eee;
+    background:#F2AE72;
 }
 
 footer{
-    background:#eee;
+    background:#ED5D4E;
 }
 
 .jumbotron{
-  background: url('https://picjumbo.imgix.net/HNCK8910.jpg?q=40&w=1650&sharp=30') no-repeat center;
+  background: url('https://picjumbo.imgix.net/HNCK0369.jpg?q=40&w=1650&sharp=30') no-repeat center;
   background-size: cover;
 }
 
 .portrait_name{
     background: rgba(230, 230, 230, 0.7);
+}
+body{
+  background-color:B2E9DB;
 }
