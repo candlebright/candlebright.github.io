@@ -90,11 +90,11 @@ article{
 }
 
 footer{
-    background:#ED5D4E;
+    background:#F2AE72;
 }
 
 .jumbotron{
-  background: url('https://picjumbo.imgix.net/HNCK0369.jpg?q=40&w=1650&sharp=30') no-repeat center;
+  background: url('http://i1194.photobucket.com/albums/aa368/cmaxwell3/beach_zpst8lq5hts.jpg') no-repeat center;
   background-size: cover;
 }
 
@@ -102,5 +102,5 @@ footer{
     background: rgba(230, 230, 230, 0.7);
 }
 body{
-  background-color:B2E9DB;
+  background-color:#24BF8A;
 }

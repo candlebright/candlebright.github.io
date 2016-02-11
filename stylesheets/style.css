@@ -50,6 +50,12 @@ Color 1:
 Color 1:
 Color 1:
 ***********************************/
+
 body{
-  background-color:B2E9DB;
+font-family: 'Indie Flower', cursive;
+background-color:#5C1420;
+font-size:20px;
+}
+.thumbnail{
+  background-color:#F2AE72;
 }
