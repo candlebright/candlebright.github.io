@@ -11,6 +11,9 @@ html {
 }
 body {
   margin: 0;
+font-family: 'Indie Flower', cursive;
+background-color:#5C1420;
+font-size:20px;
 }
 article,
 aside,
@@ -84,7 +87,7 @@ sub {
   bottom: -.25em;
 }
 img {
-  border: 0;
+  border: 10;
 }
 svg:not(:root) {
   overflow: hidden;
